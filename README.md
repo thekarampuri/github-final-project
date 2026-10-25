@@ -18,3 +18,5 @@ This project is part of the IBM Introduction to Git and GitHub course. It demons
 
 ## License
 This project is licensed under the Apache License 2.0.
+
+_© 2022 XYZ, Inc._
